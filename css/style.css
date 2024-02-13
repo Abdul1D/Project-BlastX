@@ -1,0 +1,14 @@
+.ProjectBlastX{
+    width: 100%;
+    height: 100vh;
+    padding-top:200px;
+}
+
+.title{
+margin: auto;
+width: fit-content;
+text-align: center;
+color:grey;
+position: relative;
+
+}
